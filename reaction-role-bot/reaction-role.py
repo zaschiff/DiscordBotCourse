@@ -52,4 +52,4 @@ async def on_raw_reaction_remove(payload):
             await member.remove_roles(role)
             # print('reacted with sunglasses')
 
-client.run('MTE0MDA1OTcyMTgwMjQ0OTAxOA.GF_7YZ.HQWxLV7O0omSgyFgwGVyOSACMAhFSTvlPY68fk')
+client.run('')
