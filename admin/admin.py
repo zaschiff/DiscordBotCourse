@@ -21,7 +21,7 @@ async def clear(ctx, amount, month=None, day=None, year=None):
 
     if month == None or day == None or year == None:
         # print("Date = none")
-        date = none
+        date = None
     else:
         date  =  datetime.datetime(int(year), int(month), int(day))
         # print("Date = " + str(date))
