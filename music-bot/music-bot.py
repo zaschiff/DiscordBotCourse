@@ -139,4 +139,4 @@ async def stop_error(ctx, error):
 
 
 
-client.run('MTE0MDA1OTcyMTgwMjQ0OTAxOA.GJHL6M.sDSYKKFeMdUZlnsNkHdusorTi_WBZkh5mFgcUU')
+client.run('Your Token')
