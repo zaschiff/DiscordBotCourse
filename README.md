@@ -10,3 +10,7 @@ We installed the discord python package using pip: pip install discord.py[voice]
 ## Reaction-Role-Bot
 
 fold containing the files to build a bot that controls user roles based on reactions
+
+## Commands
+
+demonstration of designing bots and their commands along with building a help list to display those commands and information about them
