@@ -121,4 +121,4 @@ def checkWinner(winning_conditions, mark):
             game_over = True
 
 
-bot.run('MTE0MDA1OTcyMTgwMjQ0OTAxOA.Gd9Qyh.mawUIY4ozUjpwdNUG0DO8ZytGE9G9E0DQvpbr4')
+bot.run('')
