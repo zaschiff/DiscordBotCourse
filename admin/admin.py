@@ -41,7 +41,7 @@ async def kick(ctx, member: discord.Member, *, reason):
 async def ban(ctx, member: discord.Member, *, reason):
     await member.ban(reason=reason)
 
-@bot.command
+@bot.command()
 async def unban(ctx, *, member):
     banned_list = await ctx.guild.bans()
 
